@@ -8,7 +8,7 @@ CRN: 29704
 
 ## Team Members:
 
-- Om Amin
+- Om Amin [Om-Amin](https://github.com/Om-Amin)
 - Rohit Sharma
 - Aaron Jackson [@Aaronjackson3x](https://github.com/Aaronjackson3x)
 - Kristen Wang
