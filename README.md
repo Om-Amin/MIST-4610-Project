@@ -11,7 +11,7 @@ CRN: 29704
 - Om Amin [@Om-Amin](https://github.com/Om-Amin)
 - Rohit Sharma
 - Aaron Jackson [@Aaronjackson3x](https://github.com/Aaronjackson3x)
-- Kristen Wang [@kristennw](https://github.com/kristennwang)
+- Kristen Wang [@kristennw](https://github.com/kristennw)
 - Oliver Tripcony
 
 ## Problem Description:
