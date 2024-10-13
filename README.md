@@ -10,7 +10,7 @@ CRN: 29704
 
 - Om Amin
 - Rohit Sharma
-- Aaron Jackson
+- Aaron Jackson [@Aaronjackson3x} (https://github.com/Aaronjackson3x)
 - Kristen Wang
 - Oliver Tripcony
 
