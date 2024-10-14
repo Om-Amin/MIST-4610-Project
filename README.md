@@ -176,7 +176,8 @@ Query 1 allows the library to enhance the library's offers, promote member loyal
 Query 2 allows finding members who have never written a review provides insights into engagement levels, identifies potential barriers to feedback, and highlights opportunities for more inclusive member participation.
 
 3. Query 3 lists the names, expiration dates and emails of members who have cards expiring between the specified periods.
-<img width="569" alt="Screenshot 2024-10-13 at 11 29 22 PM" src="https://github.com/user-attachments/assets/4360fcd0-542b-4778-8fa4-0183fc043b82">
+<img width="985" alt="Screenshot 2024-10-13 at 11 47 14 PM" src="https://github.com/user-attachments/assets/4bae9968-b4c5-4ccc-bf60-312096e86ed2">
+
 
 Query 3 allows the library enables managers to perform strategic planning, improve member experience, support retention efforts, and assists in predicting future financial situations .
 
