@@ -165,28 +165,38 @@ This data model allows the library to track member activity, media loans, review
 | NOT IN                       |         |    X    |         |         |         |         |         |         |         |          |
 
 1. Query 1 lists the name, email, and number of items loaned of the member who has checked out the most media items. 
+<img width="583" alt="Screenshot 2024-10-13 at 11 28 47 PM" src="https://github.com/user-attachments/assets/3fb099b2-812e-43c0-9340-184fbb2f4925">
 
 Query 1 allows the library to enhance the library's offers, promote member loyalty, and create a more efficient and user centric environment.
 
 
 2. Query 2 lists the names and emails of members who have never written a review, listed alphabetically.
+<img width="512" alt="Screenshot 2024-10-13 at 11 28 59 PM" src="https://github.com/user-attachments/assets/6dbc9f91-62c4-4c43-ab93-b40a9d6094cd">
 
 Query 2 allows 
 
 3. Query 3 lists the names, expiration dates and emails of members who have cards expiring between the specified periods.
+<img width="569" alt="Screenshot 2024-10-13 at 11 29 22 PM" src="https://github.com/user-attachments/assets/4360fcd0-542b-4778-8fa4-0183fc043b82">
 
 Query 3 allows the library to 
 
 4. Query 4 lists the average rating by genre for media that has more than four reviews.
+<img width="482" alt="Screenshot 2024-10-13 at 11 29 42 PM" src="https://github.com/user-attachments/assets/5a44ea86-131e-48f6-916c-8051ecc64616">
 
 5.  Query 5 lists the creators who have contributed to media items in more than one genre along with how many contributions they have made.
+<img width="585" alt="Screenshot 2024-10-13 at 11 29 56 PM" src="https://github.com/user-attachments/assets/981317e0-c1d7-4464-b091-a551f3791852">
 
 6.  Query 6 lists the most borrowed genres by month and their respective total borrows.
+<img width="528" alt="Screenshot 2024-10-13 at 11 30 10 PM" src="https://github.com/user-attachments/assets/cbd73879-a3a9-4b0f-b45b-c62236de7ba5">
 
 7.  Query 7 lists the employees that manage more than one section and how many sections they manage in total.
+<img width="569" alt="Screenshot 2024-10-13 at 11 30 21 PM" src="https://github.com/user-attachments/assets/11911ba0-03e3-4c05-90a9-0db44a6eade3">
 
 8.  Query 8 lists the name, salary and section of employees who have a salary higher than the average salary in their section.
+<img width="582" alt="Screenshot 2024-10-13 at 11 30 33 PM" src="https://github.com/user-attachments/assets/585ac31b-5383-43af-a710-835e5631432d">
 
 9.  Query 9 lists the names of creators who have contributed to media items that have an average rating of 4 or higher.
+<img width="558" alt="Screenshot 2024-10-13 at 11 30 45 PM" src="https://github.com/user-attachments/assets/f3dea5a0-854f-41e7-a2aa-034e2733a495">
 
 10. Query 10 retrieves the top two most commonly used languages in media items during the year of 2023.
+<img width="584" alt="Screenshot 2024-10-13 at 11 30 54 PM" src="https://github.com/user-attachments/assets/1a500fae-3980-44dc-87a2-b03ec813a9a7">
