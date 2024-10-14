@@ -166,11 +166,26 @@ This data model allows the library to track member activity, media loans, review
 
 1. Query 1 lists the name, email, and number of items loaned of the member who has checked out the most media items. 
 
-
 Query 1 allows the library to 
 
-2. Query 2 lists the names of members who have never written a review, listed alphabetically.
+2. Query 2 lists the names and emails of members who have never written a review, listed alphabetically.
 
 Query 2 allows 
 
-3. 
+3. Query 3 lists the names, expiration dates and emails of members who have cards expiring between the specified periods.
+
+Query 3 allows the library to 
+
+4. Query 4 lists the average rating by genre for media that has more than four reviews.
+
+5.  Query 5 lists the creators who have contributed to media items in more than one genre along with how many contributions they have made.
+
+6.  Query 6 lists the most borrowed genres by month and their respective total borrows.
+
+7.  Query 7 lists the employees that manage more than one section and how many sections they manage in total.
+
+8.  Query 8 lists the name, salary and section of employees who have a salary higher than the average salary in their section.
+
+9.  Query 9 lists the names of creators who have contributed to media items that have an average rating of 4 or higher.
+
+10. Query 10 retrieves the top two most commonly used languages in media items during the year of 2023.
