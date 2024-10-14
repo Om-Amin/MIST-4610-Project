@@ -166,7 +166,8 @@ This data model allows the library to track member activity, media loans, review
 
 1. Query 1 lists the name, email, and number of items loaned of the member who has checked out the most media items. 
 
-Query 1 allows the library to 
+Query 1 allows the library to enhance the library's offers, promote member loyalty, and create a more efficient and user centric environment.
+
 
 2. Query 2 lists the names and emails of members who have never written a review, listed alphabetically.
 
