@@ -158,7 +158,7 @@ This data model allows the library to track member activity, media loans, review
 | subquery                     |         |    X    |         |         |         |         |         |         |         |          |
 | GROUP BY                     |    X    |         |         |    X    |         |    X    |    X    |         |    X    |          |
 | GROUP BY with HAVING         |         |         |         |    X    |         |         |    X    |         |    X    |          |
-| multi-condition WHERE        |         |    x    |         |         |         |         |         |         |         |          |
+| multi-condition WHERE        |         |    X    |     X    |         |         |         |         |         |         |          |
 | built-in functions (AVG, COUNT) |    X    |         |         |    X    |         |    X    |         |         |    X    |          |
 | REGEXP                       |         |         |         |         |         |         |         |         |         |          |
 | NOT EXISTS                   |         |        |         |         |         |         |         |         |         |          |
