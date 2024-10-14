@@ -16,6 +16,10 @@ CRN: 29704
 
 ## Problem Description:
 
+Our library operates as a digital and physical space where members can borrow various media items, such as books, movies, and music CDs. Our library tracks media loans, reviews provided by members, and details about the creators of the media. Additionally, our system manages the internal structure of the library by organizing employees and media items into different sections. The goal is to ensure smooth library operations, including member engagement, media item management, staff allocation, and media categorization.
+
+## Data Model Description:
+
 Our model represents the structure of a library media management system. The core entity is the Member entity, representing individuals who can borrow media items like books, movies, and music. Each member has a Card associated with them, and this card allows them to borrow items. Since a member can have multiple cards, as some members might have expired cards attached to them, we’ve set up a one-to-many relationship between Member and Card.
 
 Members borrow items from the library, which is tracked in the Loan table. Each Loan records details like when the media item was borrowed, when it is due, and when it was returned. Because members can borrow many media items, we established a one-to-many relationship between the Member and Loan tables. Similarly, each media item can be borrowed multiple times, so there is a one-to-many relationship between MediaItem and Loan.
