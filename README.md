@@ -155,7 +155,7 @@ This data model allows the library to track member activity, media loans, review
 ## Database Information on Queries
 | Feature                     | Query 1 | Query 2 | Query 3 | Query 4 | Query 5 | Query 6 | Query 7 | Query 8 | Query 9 | Query 10 |
 |-----------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|
-| multiple table join          |    X     |         |    X    |    X    |   X     |    X    |    X    |    X    |    X    |    X      |
+| multiple table join          |    X    |         |    X    |    X    |   X     |    X    |    X    |    X    |    X    |    X      |
 | subquery                     |         |    X    |         |         |     X   |         |         |     X   |         |          |
 | GROUP BY                     |    X    |         |         |    X    |     X   |    X    |     X   |         |    X    |     X     |
 | GROUP BY with HAVING         |         |         |         |    X    |         |         |     X   |         |    X    |          |
