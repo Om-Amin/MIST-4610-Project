@@ -162,3 +162,14 @@ This data model allows the library to track member activity, media loans, review
 | built-in functions (AVG, COUNT) |    X    |         |         |    X    |        |    X    |         |         |    X    |          |
 | REGEXP                       |         |         |         |         |         |         |         |         |         |          |
 | NOT EXISTS                   |         |        |         |         |         |         |         |         |         |          |
+
+1. Query 1 lists the name, email, and number of items loaned of the member who has checked out the most media items. 
+
+
+Query 1 allows the library to 
+
+2. Query 2 lists the names of members who have never written a review, listed alphabetically.
+
+Query 2 allows 
+
+3. 
