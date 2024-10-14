@@ -173,30 +173,45 @@ Query 1 allows the library to enhance the library's offers, promote member loyal
 2. Query 2 lists the names and emails of members who have never written a review, listed alphabetically.
 <img width="512" alt="Screenshot 2024-10-13 at 11 28 59 PM" src="https://github.com/user-attachments/assets/6dbc9f91-62c4-4c43-ab93-b40a9d6094cd">
 
-Query 2 allows 
+Query 2 allows finding members who have never written a review provides insights into engagement levels, identifies potential barriers to feedback, and highlights opportunities for more inclusive member participation.
 
 3. Query 3 lists the names, expiration dates and emails of members who have cards expiring between the specified periods.
 <img width="569" alt="Screenshot 2024-10-13 at 11 29 22 PM" src="https://github.com/user-attachments/assets/4360fcd0-542b-4778-8fa4-0183fc043b82">
 
-Query 3 allows the library to 
+Query 3 allows the library enables managers to perform strategic planning, improve member experience, support retention efforts, and assists in predicting future financial situations .
 
 4. Query 4 lists the average rating by genre for media that has more than four reviews.
 <img width="482" alt="Screenshot 2024-10-13 at 11 29 42 PM" src="https://github.com/user-attachments/assets/5a44ea86-131e-48f6-916c-8051ecc64616">
 
+Query 4 helps identify which genres are consistently well-received, focusing only on those with substantial review data.
+
 5.  Query 5 lists the creators who have contributed to media items in more than one genre along with how many contributions they have made.
 <img width="585" alt="Screenshot 2024-10-13 at 11 29 56 PM" src="https://github.com/user-attachments/assets/981317e0-c1d7-4464-b091-a551f3791852">
+
+Query 5 Allows for better resource allocation and strategic partnerships, reaching wider audiences. Additionally, it helps in trend analysis, enabling informed decision-making for future projects aligned with market demands.
 
 6.  Query 6 lists the most borrowed genres by month and their respective total borrows.
 <img width="528" alt="Screenshot 2024-10-13 at 11 30 10 PM" src="https://github.com/user-attachments/assets/cbd73879-a3a9-4b0f-b45b-c62236de7ba5">
 
+Query 6 Provides insights into genre preferences based on borrowing trends over time, helping the library adjust its inventory and marketing focus.
+
 7.  Query 7 lists the employees that manage more than one section and how many sections they manage in total.
 <img width="569" alt="Screenshot 2024-10-13 at 11 30 21 PM" src="https://github.com/user-attachments/assets/11911ba0-03e3-4c05-90a9-0db44a6eade3">
+
+Query 7 Identifies members who have registered but never borrowed anything, providing an opportunity to re-engage these users.
 
 8.  Query 8 lists the name, salary and section of employees who have a salary higher than the average salary in their section.
 <img width="582" alt="Screenshot 2024-10-13 at 11 30 33 PM" src="https://github.com/user-attachments/assets/585ac31b-5383-43af-a710-835e5631432d">
 
+Query 8 Helps identify top performers who may be contributing more significantly to the team's success. This information can guide decisions related to compensation adjustments, promotions, and recognizing exceptional talent. 
+
 9.  Query 9 lists the names of creators who have contributed to media items that have an average rating of 4 or higher.
 <img width="558" alt="Screenshot 2024-10-13 at 11 30 45 PM" src="https://github.com/user-attachments/assets/f3dea5a0-854f-41e7-a2aa-034e2733a495">
 
+Query 9 helps managers focus on quality content in the library's inventory, improving member satisfaction, optimizing acquisitions, and aligning offerings with member preferences based on actual feedback.
+
+
 10. Query 10 retrieves the top two most commonly used languages in media items during the years of 2023 and 2024.
 <img width="966" alt="Screenshot 2024-10-13 at 11 32 49 PM" src="https://github.com/user-attachments/assets/0d9452dd-0f09-48a8-99a1-a5e777f117a4">
+
+Query 10 Helps identify language preferences among users, guiding decisions about future media acquisitions. This insight can improve inventory planning by ensuring that the most in-demand languages are well-stocked, enhancing customer satisfaction. Additionally, it aids in marketing strategies by targeting promotions towards popular language groups and catering to audience preferences.
