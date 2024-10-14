@@ -12,7 +12,7 @@ CRN: 29704
 - Rohit Sharma
 - Aaron Jackson [@Aaronjackson3x](https://github.com/Aaronjackson3x)
 - Kristen Wang [@kristennw](https://github.com/kristennw)
-- Oliver Tripcony
+- Oliver Tripcony [@OliverTripcony](https://github.com/OliverTripcony)
 
 ## Problem Description:
 
