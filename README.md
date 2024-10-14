@@ -152,7 +152,7 @@ This data model allows the library to track member activity, media loans, review
 
 ---
 
-## Database Information on Queries
+##Queries
 | Feature                     | Query 1 | Query 2 | Query 3 | Query 4 | Query 5 | Query 6 | Query 7 | Query 8 | Query 9 | Query 10 |
 |-----------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|
 | multiple table join          |    X    |         |    X    |    X    |   X     |    X    |    X    |    X    |    X    |    X      |
@@ -216,3 +216,8 @@ Query 9 helps managers focus on quality content in the library's inventory, impr
 <img width="966" alt="Screenshot 2024-10-13 at 11 32 49 PM" src="https://github.com/user-attachments/assets/0d9452dd-0f09-48a8-99a1-a5e777f117a4">
 
 Query 10 Helps identify language preferences among users, guiding decisions about future media acquisitions. This insight can improve inventory planning by ensuring that the most in-demand languages are well-stocked, enhancing customer satisfaction. Additionally, it aids in marketing strategies by targeting promotions towards popular language groups and catering to audience preferences.
+
+## Database Information
+Name of the database: cs_ota82991
+
+Each query listed above is stored in the database using stored procedures using the format: CALL TP_Q1();
