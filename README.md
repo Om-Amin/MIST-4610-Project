@@ -39,7 +39,7 @@ This data model allows the library to track member activity, media loans, review
 
 ### Table: `member`
 
-| Column Name  | Description                              | Data Type | Size  | Key?  |
+| Column Name  | Description                              | Data Type | Size  | Key  |
 |--------------|------------------------------------------|-----------|-------|-------|
 | `idmember`   | PK; unique identifier for each member    | INT       | 11    | PK    |
 | `memberName` | Name of the member                       | VARCHAR   | 80    |       |
@@ -50,7 +50,7 @@ This data model allows the library to track member activity, media loans, review
 
 ### Table: `card`
 
-| Column Name       | Description                              | Data Type | Size  | Key?  |
+| Column Name       | Description                              | Data Type | Size  | Key  |
 |-------------------|------------------------------------------|-----------|-------|-------|
 | `idCard`          | PK; unique identifier for each card      | INT       | 11    | PK    |
 | `issue_date`      | Date the card was issued                 | DATE      |       |       |
@@ -62,7 +62,7 @@ This data model allows the library to track member activity, media loans, review
 
 ### Table: `loan`
 
-| Column Name       | Description                              | Data Type | Size  | Key?  |
+| Column Name       | Description                              | Data Type | Size  | Key  |
 |-------------------|------------------------------------------|-----------|-------|-------|
 | `idloan`          | PK; unique identifier for each loan      | INT       | 11    | PK    |
 | `loanDate`        | Date the media item was borrowed         | DATE      |       |       |
@@ -75,7 +75,7 @@ This data model allows the library to track member activity, media loans, review
 
 ### Table: `mediaItem`
 
-| Column Name    | Description                              | Data Type | Size  | Key?  |
+| Column Name    | Description                              | Data Type | Size  | Key  |
 |----------------|------------------------------------------|-----------|-------|-------|
 | `idmediaItem`  | PK; unique identifier for each media item| INT       | 11    | PK    |
 | `title`        | Title of the media item                  | VARCHAR   | 45    |       |
@@ -89,7 +89,7 @@ This data model allows the library to track member activity, media loans, review
 
 ### Table: `review`
 
-| Column Name   | Description                              | Data Type | Size  | Key?  |
+| Column Name   | Description                              | Data Type | Size  | Key  |
 |---------------|------------------------------------------|-----------|-------|-------|
 | `idReview`    | PK; unique identifier for each review    | INT       | 11    | PK    |
 | `rating`      | Rating given to the media item           | INT       |       |       |
@@ -101,7 +101,7 @@ This data model allows the library to track member activity, media loans, review
 
 ### Table: `mediaType`
 
-| Column Name  | Description                              | Data Type | Size  | Key?  |
+| Column Name  | Description                              | Data Type | Size  | Key  |
 |--------------|------------------------------------------|-----------|-------|-------|
 | `idType`     | PK; unique identifier for media type     | INT       | 11    | PK    |
 | `Description`| Description of the media type (e.g., book, movie) | VARCHAR   | 45    |       |
@@ -110,7 +110,7 @@ This data model allows the library to track member activity, media loans, review
 
 ### Table: `section`
 
-| Column Name         | Description                              | Data Type | Size  | Key?  |
+| Column Name         | Description                              | Data Type | Size  | Key  |
 |---------------------|------------------------------------------|-----------|-------|-------|
 | `idsection`         | PK; unique identifier for each section   | INT       | 11    | PK    |
 | `sectionName`       | Name of the section (e.g., Sci-Fi, Romance) | VARCHAR   | 45    |       |
@@ -120,7 +120,7 @@ This data model allows the library to track member activity, media loans, review
 
 ### Table: `employee`
 
-| Column Name   | Description                              | Data Type | Size  | Key?  |
+| Column Name   | Description                              | Data Type | Size  | Key  |
 |---------------|------------------------------------------|-----------|-------|-------|
 | `idemployee`  | PK; unique identifier for each employee  | INT       | 11    | PK    |
 | `employee_Name`| Name of the employee                    | VARCHAR   | 45    |       |
@@ -132,7 +132,7 @@ This data model allows the library to track member activity, media loans, review
 
 ### Table: `creator`
 
-| Column Name   | Description                              | Data Type | Size  | Key?  |
+| Column Name   | Description                              | Data Type | Size  | Key  |
 |---------------|------------------------------------------|-----------|-------|-------|
 | `idCreator`   | PK; unique identifier for each creator   | INT       | 11    | PK    |
 | `creator_fname`| First name of the creator               | VARCHAR   | 45    |       |
@@ -143,7 +143,7 @@ This data model allows the library to track member activity, media loans, review
 
 ### Table: `mediaCreator`
 
-| Column Name  | Description                              | Data Type | Size  | Key?  |
+| Column Name  | Description                              | Data Type | Size  | Key  |
 |--------------|------------------------------------------|-----------|-------|-------|
 | `idmediaItem`| FK; media item linked to the creator     | INT       | 11    | FK    |
 | `idCreator`  | FK; creator linked to the media item     | INT       | 11    | FK    |
