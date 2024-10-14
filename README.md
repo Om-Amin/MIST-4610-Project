@@ -35,3 +35,118 @@ This data model allows the library to track member activity, media loans, review
 
 <img width="931" alt="Screenshot 2024-10-13 at 7 18 02 PM" src="https://github.com/user-attachments/assets/a81f5040-7db7-4392-877f-d780526ed34c">
 
+## Data Dictionary:
+
+### Table: `member`
+
+| Column Name  | Description                              | Data Type | Size  | Key?  |
+|--------------|------------------------------------------|-----------|-------|-------|
+| `idmember`   | PK; unique identifier for each member    | INT       | 11    | PK    |
+| `memberName` | Name of the member                       | VARCHAR   | 80    |       |
+| `email`      | Email of the member                      | VARCHAR   | 85    |       |
+| `Address`    | Address of the member                    | VARCHAR   | 85    |       |
+
+---
+
+### Table: `card`
+
+| Column Name       | Description                              | Data Type | Size  | Key?  |
+|-------------------|------------------------------------------|-----------|-------|-------|
+| `idCard`          | PK; unique identifier for each card      | INT       | 11    | PK    |
+| `issue_date`      | Date the card was issued                 | DATE      |       |       |
+| `expiration_date` | Date the card expires                    | DATE      |       |       |
+| `idmember`        | FK; links to member                      | INT       | 11    | FK    |
+| `status`          | Status of the card (e.g., Active, Expired)| VARCHAR   | 45    |       |
+
+---
+
+### Table: `loan`
+
+| Column Name       | Description                              | Data Type | Size  | Key?  |
+|-------------------|------------------------------------------|-----------|-------|-------|
+| `idloan`          | PK; unique identifier for each loan      | INT       | 11    | PK    |
+| `loanDate`        | Date the media item was borrowed         | DATE      |       |       |
+| `returnedDate`    | Date the media item was returned         | DATE      |       |       |
+| `expectedDueDate` | Expected return date of the media item   | DATE      |       |       |
+| `idmember`        | FK; links to the member who borrowed     | INT       | 11    | FK    |
+| `idmediaItem`     | FK; links to the media item borrowed     | INT       | 11    | FK    |
+
+---
+
+### Table: `mediaItem`
+
+| Column Name    | Description                              | Data Type | Size  | Key?  |
+|----------------|------------------------------------------|-----------|-------|-------|
+| `idmediaItem`  | PK; unique identifier for each media item| INT       | 11    | PK    |
+| `title`        | Title of the media item                  | VARCHAR   | 45    |       |
+| `release_year` | Release year of the media item           | DATE      |       |       |
+| `language`     | Language of the media item               | VARCHAR   | 45    |       |
+| `idsection`    | FK; section where the media item belongs | INT       | 11    | FK    |
+| `idType`       | FK; type of media item (book, movie, etc.)| INT       | 11    | FK    |
+| `genre`        | Genre of the media item                  | VARCHAR   | 45    |       |
+
+---
+
+### Table: `review`
+
+| Column Name   | Description                              | Data Type | Size  | Key?  |
+|---------------|------------------------------------------|-----------|-------|-------|
+| `idReview`    | PK; unique identifier for each review    | INT       | 11    | PK    |
+| `rating`      | Rating given to the media item           | INT       |       |       |
+| `reviewText`  | Text of the review                       | TEXT      | 200   |       |
+| `idmediaItem` | FK; media item being reviewed            | INT       | 11    | FK    |
+| `idmember`    | FK; member who wrote the review          | INT       | 11    | FK    |
+
+---
+
+### Table: `mediaType`
+
+| Column Name  | Description                              | Data Type | Size  | Key?  |
+|--------------|------------------------------------------|-----------|-------|-------|
+| `idType`     | PK; unique identifier for media type     | INT       | 11    | PK    |
+| `Description`| Description of the media type (e.g., book, movie) | VARCHAR   | 45    |       |
+
+---
+
+### Table: `section`
+
+| Column Name         | Description                              | Data Type | Size  | Key?  |
+|---------------------|------------------------------------------|-----------|-------|-------|
+| `idsection`         | PK; unique identifier for each section   | INT       | 11    | PK    |
+| `sectionName`       | Name of the section (e.g., Sci-Fi, Romance) | VARCHAR   | 45    |       |
+| `employee_idemployee`| FK; employee managing the section        | INT       | 11    | FK    |
+
+---
+
+### Table: `employee`
+
+| Column Name   | Description                              | Data Type | Size  | Key?  |
+|---------------|------------------------------------------|-----------|-------|-------|
+| `idemployee`  | PK; unique identifier for each employee  | INT       | 11    | PK    |
+| `employee_Name`| Name of the employee                    | VARCHAR   | 45    |       |
+| `position`    | Position of the employee (e.g., Librarian, Manager)| VARCHAR   | 45    |    |
+| `salary`      | Employee’s salary                        | INT       |       |       |
+| `idSection`   | FK; section managed by the employee      | INT       | 11    | FK    |
+
+---
+
+### Table: `creator`
+
+| Column Name   | Description                              | Data Type | Size  | Key?  |
+|---------------|------------------------------------------|-----------|-------|-------|
+| `idCreator`   | PK; unique identifier for each creator   | INT       | 11    | PK    |
+| `creator_fname`| First name of the creator               | VARCHAR   | 45    |       |
+| `creator_lname`| Last name of the creator                | VARCHAR   | 45    |       |
+| `typeCreator` | Type of creator (e.g., author, director) | VARCHAR   | 45    |       |
+
+---
+
+### Table: `mediaCreator`
+
+| Column Name  | Description                              | Data Type | Size  | Key?  |
+|--------------|------------------------------------------|-----------|-------|-------|
+| `idmediaItem`| FK; media item linked to the creator     | INT       | 11    | FK    |
+| `idCreator`  | FK; creator linked to the media item     | INT       | 11    | FK    |
+|              | PK; composite key of both `idmediaItem` and `idCreator` |          |    | PK    |
+
+---
