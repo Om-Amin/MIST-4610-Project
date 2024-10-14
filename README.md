@@ -199,4 +199,4 @@ Query 3 allows the library to
 <img width="558" alt="Screenshot 2024-10-13 at 11 30 45 PM" src="https://github.com/user-attachments/assets/f3dea5a0-854f-41e7-a2aa-034e2733a495">
 
 10. Query 10 retrieves the top two most commonly used languages in media items during the years of 2023 and 2024.
-<img width="584" alt="Screenshot 2024-10-13 at 11 30 54 PM" src="https://github.com/user-attachments/assets/1a500fae-3980-44dc-87a2-b03ec813a9a7">
+<img width="966" alt="Screenshot 2024-10-13 at 11 32 49 PM" src="https://github.com/user-attachments/assets/0d9452dd-0f09-48a8-99a1-a5e777f117a4">
