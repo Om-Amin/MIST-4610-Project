@@ -167,8 +167,7 @@ This data model allows the library to track member activity, media loans, review
 1. Query 1 lists the name, email, and number of items loaned of the member who has checked out the most media items. 
 <img width="583" alt="Screenshot 2024-10-13 at 11 28 47 PM" src="https://github.com/user-attachments/assets/3fb099b2-812e-43c0-9340-184fbb2f4925">
 
-Query 1 allows the library to enhance the library's offers, promote member loyalty, and create a more efficient and user centric environment.
-
+Query 1 allows the library to see its most active members. With this information, the library can recognize these members with rewards or incentives such as priority borrowing privileges to create member loyalty and encourage activity.
 
 2. Query 2 lists the names and emails of members who have never written a review, listed alphabetically.
 <img width="512" alt="Screenshot 2024-10-13 at 11 28 59 PM" src="https://github.com/user-attachments/assets/6dbc9f91-62c4-4c43-ab93-b40a9d6094cd">
