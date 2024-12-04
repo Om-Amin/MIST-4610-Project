@@ -209,7 +209,7 @@ Query 8 is useful in that it can be used to make compensation adjustments. If an
 
 Query 9 is useful as it can be used to ensure that the library's inventory remains at a high quality. Future content acquisitions could be guided by creators whose media consistently attains high ratings, improving customer satisfaction by aligning future offerings with members' preferences.
 
-10. Query 10 retrieves the top two most commonly used languages in media items during the years of 2023 and 2024.
+10. Query 10 retrieves the top two most commonly used languages in media items during the years of 2023 and 2024 and the total amount of items in which the languages were used.
 <img width="966" alt="Screenshot 2024-10-13 at 11 32 49 PM" src="https://github.com/user-attachments/assets/0d9452dd-0f09-48a8-99a1-a5e777f117a4">
 
 Query 10 helps identify language preferences among users, guiding decisions about future media acquisitions. This insight can improve inventory planning by ensuring that the most in-demand languages are well-stocked, enhancing customer satisfaction. Additionally, it aids in marketing strategies by targeting promotions towards popular language groups and catering to audience preferences.
