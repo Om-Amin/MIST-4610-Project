@@ -193,7 +193,7 @@ Query 5 Allows for better resource allocation and strategic partnerships, reachi
 6.  Query 6 lists the most borrowed genres by month and their respective total borrows.
 <img width="528" alt="Screenshot 2024-10-13 at 11 30 10 PM" src="https://github.com/user-attachments/assets/cbd73879-a3a9-4b0f-b45b-c62236de7ba5">
 
-Query 6 Provides insights into genre preferences based on borrowing trends over time, helping the library adjust its inventory and marketing focus.
+Query 6 is useful in that it helps to identify borrowing trends over time. Using this information, the library can make informed decisions on what genres to promote and acquire for different periods of the year. For example, media falling under the horror genre should be prioritized during October.
 
 7.  Query 7 lists the employees that manage more than one section and how many sections they manage in total.
 <img width="569" alt="Screenshot 2024-10-13 at 11 30 21 PM" src="https://github.com/user-attachments/assets/11911ba0-03e3-4c05-90a9-0db44a6eade3">
