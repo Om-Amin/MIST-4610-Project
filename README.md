@@ -177,8 +177,7 @@ Query 2 is useful as it highlights potential opportunities for feedback improvem
 3. Query 3 lists the names, expiration dates and emails of members who have cards expiring between the specified periods.
 <img width="985" alt="Screenshot 2024-10-13 at 11 47 14 PM" src="https://github.com/user-attachments/assets/4bae9968-b4c5-4ccc-bf60-312096e86ed2">
 
-
-Query 3 allows the library enables managers to perform strategic planning, improve member experience, support retention efforts, and assists in predicting future financial situations .
+Query 3 allows the library enables managers to perform strategic planning, improve member experience, support retention efforts, and assists in predicting future financial situations.
 
 4. Query 4 lists the average rating by genre for media that has more than four reviews.
 <img width="482" alt="Screenshot 2024-10-13 at 11 29 42 PM" src="https://github.com/user-attachments/assets/5a44ea86-131e-48f6-916c-8051ecc64616">
@@ -188,7 +187,7 @@ Query 4 is useful as it can identify popular genres in the library while limitin
 5.  Query 5 lists the creators who have contributed to media items in more than one genre along with how many contributions they have made.
 <img width="585" alt="Screenshot 2024-10-13 at 11 29 56 PM" src="https://github.com/user-attachments/assets/981317e0-c1d7-4464-b091-a551f3791852">
 
-Query 5 Allows for better resource allocation and strategic partnerships, reaching wider audiences. Additionally, it helps in trend analysis, enabling informed decision-making for future projects aligned with market demands.
+Query 5 is useful as it can improve resource optimization. Identifying creators who contribute to multiple genres could be used to improve marketing efforts by promoting offerings from creators with a larger audience spread across different genres. Furthermore, the library could also seek to develop partnerships with these vital creators, giving themselves a competitive advantage over other libraries in the area.
 
 6.  Query 6 lists the most borrowed genres by month and their respective total borrows.
 <img width="528" alt="Screenshot 2024-10-13 at 11 30 10 PM" src="https://github.com/user-attachments/assets/cbd73879-a3a9-4b0f-b45b-c62236de7ba5">
@@ -208,12 +207,12 @@ Query 8 is useful in that it can be used to make compensation adjustments. If an
 9.  Query 9 lists the names of creators who have contributed to media items that have an average rating of 4 or higher.
 <img width="558" alt="Screenshot 2024-10-13 at 11 30 45 PM" src="https://github.com/user-attachments/assets/f3dea5a0-854f-41e7-a2aa-034e2733a495">
 
-Query 9 is useful as it can be used to ensure that the library's inventory remains at a high quality. Future content acquisitions could be guided by creators whose media consistently attains high ratings, improving customer satisfaction by aligning future offerings with members' preferences
+Query 9 is useful as it can be used to ensure that the library's inventory remains at a high quality. Future content acquisitions could be guided by creators whose media consistently attains high ratings, improving customer satisfaction by aligning future offerings with members' preferences.
 
 10. Query 10 retrieves the top two most commonly used languages in media items during the years of 2023 and 2024.
 <img width="966" alt="Screenshot 2024-10-13 at 11 32 49 PM" src="https://github.com/user-attachments/assets/0d9452dd-0f09-48a8-99a1-a5e777f117a4">
 
-Query 10 Helps identify language preferences among users, guiding decisions about future media acquisitions. This insight can improve inventory planning by ensuring that the most in-demand languages are well-stocked, enhancing customer satisfaction. Additionally, it aids in marketing strategies by targeting promotions towards popular language groups and catering to audience preferences.
+Query 10 helps identify language preferences among users, guiding decisions about future media acquisitions. This insight can improve inventory planning by ensuring that the most in-demand languages are well-stocked, enhancing customer satisfaction. Additionally, it aids in marketing strategies by targeting promotions towards popular language groups and catering to audience preferences.
 
 ## Database Information
 Name of the database: cs_ota82991
