@@ -208,8 +208,7 @@ Query 8 Helps identify top performers who may be contributing more significantly
 9.  Query 9 lists the names of creators who have contributed to media items that have an average rating of 4 or higher.
 <img width="558" alt="Screenshot 2024-10-13 at 11 30 45 PM" src="https://github.com/user-attachments/assets/f3dea5a0-854f-41e7-a2aa-034e2733a495">
 
-Query 9 helps managers focus on quality content in the library's inventory, improving member satisfaction, optimizing acquisitions, and aligning offerings with member preferences based on actual feedback.
-
+Query 9 is useful as it can be used to ensure that the library's inventory remains at a high quality. Future content acquisitions could be guided by creators whose media consistently attains high ratings, improving customer satisfaction by aligning future offerings with members' preferences
 
 10. Query 10 retrieves the top two most commonly used languages in media items during the years of 2023 and 2024.
 <img width="966" alt="Screenshot 2024-10-13 at 11 32 49 PM" src="https://github.com/user-attachments/assets/0d9452dd-0f09-48a8-99a1-a5e777f117a4">
