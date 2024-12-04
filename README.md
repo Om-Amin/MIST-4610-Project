@@ -203,7 +203,7 @@ Query 7 allows for more efficient workload distribution by highlighting employee
 8.  Query 8 lists the name, salary and section of employees who have a salary higher than the average salary in their section.
 <img width="582" alt="Screenshot 2024-10-13 at 11 30 33 PM" src="https://github.com/user-attachments/assets/585ac31b-5383-43af-a710-835e5631432d">
 
-Query 8 Helps identify top performers who may be contributing more significantly to the team's success. This information can guide decisions related to compensation adjustments, promotions, and recognizing exceptional talent. 
+Query 8 is useful in that it can be used to make compensation adjustments. If an employee is earning significantly above the average but their performance is not up to par their salary can be reduced and vice versa. Consequently, the query can be used to ensure that high-performing employees are retained via pay rises and that low-performing employees are not overpaid.
 
 9.  Query 9 lists the names of creators who have contributed to media items that have an average rating of 4 or higher.
 <img width="558" alt="Screenshot 2024-10-13 at 11 30 45 PM" src="https://github.com/user-attachments/assets/f3dea5a0-854f-41e7-a2aa-034e2733a495">
