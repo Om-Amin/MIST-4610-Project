@@ -198,7 +198,7 @@ Query 6 Provides insights into genre preferences based on borrowing trends over 
 7.  Query 7 lists the employees that manage more than one section and how many sections they manage in total.
 <img width="569" alt="Screenshot 2024-10-13 at 11 30 21 PM" src="https://github.com/user-attachments/assets/11911ba0-03e3-4c05-90a9-0db44a6eade3">
 
-Query 7 Identifies members who have registered but never borrowed anything, providing an opportunity to re-engage these users.
+Query 7 allows for more efficient workload distribution by highlighting employees who manage multiple sections. If section performance is at a low this could indicate that an employee is overburdened. On the other hand, if an employee is managing numerous sections and each section is performing at a high level it could indicate that this employee should be considered for a promotion.
 
 8.  Query 8 lists the name, salary and section of employees who have a salary higher than the average salary in their section.
 <img width="582" alt="Screenshot 2024-10-13 at 11 30 33 PM" src="https://github.com/user-attachments/assets/585ac31b-5383-43af-a710-835e5631432d">
