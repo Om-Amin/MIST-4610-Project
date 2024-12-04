@@ -177,7 +177,7 @@ Query 2 is useful as it highlights potential opportunities for feedback improvem
 3. Query 3 lists the names, expiration dates and emails of members who have cards expiring between the specified periods.
 <img width="985" alt="Screenshot 2024-10-13 at 11 47 14 PM" src="https://github.com/user-attachments/assets/4bae9968-b4c5-4ccc-bf60-312096e86ed2">
 
-Query 3 allows the library enables managers to perform strategic planning, improve member experience, support retention efforts, and assists in predicting future financial situations.
+Query 3 is useful as it allows the library to improve member retention. Using the information provided by the query, the library can proactively reach out to members and encourage renewals. This will reduce the risk of losing members and also improve member satisfaction as they feel more valued. Additionally, by knowing when large numbers of cards expire, the library can better forecast its financial situation, allowing for more effective budget planning.
 
 4. Query 4 lists the average rating by genre for media that has more than four reviews.
 <img width="482" alt="Screenshot 2024-10-13 at 11 29 42 PM" src="https://github.com/user-attachments/assets/5a44ea86-131e-48f6-916c-8051ecc64616">
