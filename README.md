@@ -184,7 +184,7 @@ Query 3 allows the library enables managers to perform strategic planning, impro
 4. Query 4 lists the average rating by genre for media that has more than four reviews.
 <img width="482" alt="Screenshot 2024-10-13 at 11 29 42 PM" src="https://github.com/user-attachments/assets/5a44ea86-131e-48f6-916c-8051ecc64616">
 
-Query 4 helps identify which genres are consistently well-received, focusing only on those with substantial review data.
+Query 4 is useful as it can identify popular genres in the library while limiting the report to genres with substantial reviews. This information will allow for better resource allocation as the library can see poorly rated genres that need updated offerings and add to highly performing genres. Following these actions will improve member satisfaction and ensure a high-quality media collection throughout all genres in the library.
 
 5.  Query 5 lists the creators who have contributed to media items in more than one genre along with how many contributions they have made.
 <img width="585" alt="Screenshot 2024-10-13 at 11 29 56 PM" src="https://github.com/user-attachments/assets/981317e0-c1d7-4464-b091-a551f3791852">
