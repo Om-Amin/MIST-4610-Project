@@ -172,7 +172,7 @@ Query 1 allows the library to see its most active members. With this information
 2. Query 2 lists the names and emails of members who have never written a review, listed alphabetically.
 <img width="512" alt="Screenshot 2024-10-13 at 11 28 59 PM" src="https://github.com/user-attachments/assets/6dbc9f91-62c4-4c43-ab93-b40a9d6094cd">
 
-Query 2 allows finding members who have never written a review provides insights into engagement levels, identifies potential barriers to feedback, and highlights opportunities for more inclusive member participation.
+Query 2 is useful as it highlights potential opportunities for feedback improvement. By identifying passive members who haven't written a review the library can offer incentives and reminders to encourage their contribution. Improved feedback will allow the library to make more informed decisions about matters such as inventory.
 
 3. Query 3 lists the names, expiration dates and emails of members who have cards expiring between the specified periods.
 <img width="985" alt="Screenshot 2024-10-13 at 11 47 14 PM" src="https://github.com/user-attachments/assets/4bae9968-b4c5-4ccc-bf60-312096e86ed2">
